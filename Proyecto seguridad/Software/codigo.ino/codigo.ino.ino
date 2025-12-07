@@ -97,7 +97,7 @@
 // ===== CONFIGURACIÓN FIREBASE =====
 // API key y URL del proyecto Firebase (Realtime Database).
 // Permite que la placa lea/escriba en la base de datos.
-#define API_KEY      "AIzaSyCyU8dKzG6etqr558Vau176JXXrF-z9mik"
+#define API_KEY      ""
 #define DATABASE_URL "https://proyecto-tdi-default-rtdb.firebaseio.com/"
 
 // Objetos principales para trabajar con Firebase:
