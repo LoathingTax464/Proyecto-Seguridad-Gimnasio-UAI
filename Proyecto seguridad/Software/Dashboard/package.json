@@ -1,0 +1,14 @@
+{
+  "name": "cloud-function",
+  "version": "1.0.0",
+  "description": "Firebase to BigQuery sync function",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "backfill": "node backfill.js"
+  },
+  "dependencies": {
+    "@google-cloud/bigquery": "7.9.4",
+    "firebase-admin": "12.7.0"
+  }
+}
